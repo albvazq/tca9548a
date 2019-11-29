@@ -1,0 +1,9 @@
+{
+  "name": "tca9548a",
+  "description": "",
+  "libs": {
+    "soft_i2c": {
+
+    }
+  }
+}

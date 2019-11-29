@@ -1,5 +1,6 @@
 {
   "name": "tca9548a",
+  "entry": "src/tca9548a.c",
   "description": "",
   "libs": {
     "soft_i2c": {
